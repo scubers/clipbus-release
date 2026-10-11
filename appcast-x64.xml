@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Clipbus</title>
+    <link>https://raw.githubusercontent.com/scubers/clipbus-release/windows-updates/appcast-x64.xml</link>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Clipbus 0.1.1.0</title>
+      <pubDate>Sun, 11 Oct 2026 02:40:33 +00:00</pubDate>
+      <sparkle:version>0.1.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.1.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/scubers/clipbus-release/releases/download/windows-v0.1.1/Clipbus-0.1.1-windows-x64-Setup.exe" sparkle:version="0.1.1.0" sparkle:shortVersionString="0.1.1.0" length="73758819" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="ZEYmhIrSY7sgjzVH3hOpgq5FEhmslbHgNOgjV2cWXauq2gZPz9a2unS0r7tCKx45NyGuEU4yDJurcps7tk0nCA==" />
+    </item>
+  </channel>
+</rss>
