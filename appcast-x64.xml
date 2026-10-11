@@ -6,11 +6,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Clipbus 0.1.1.0</title>
-      <pubDate>Sun, 11 Oct 2026 02:40:33 +00:00</pubDate>
-      <sparkle:version>0.1.1.0</sparkle:version>
-      <sparkle:shortVersionString>0.1.1.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/scubers/clipbus-release/releases/download/windows-v0.1.1/Clipbus-0.1.1-windows-x64-Setup.exe" sparkle:version="0.1.1.0" sparkle:shortVersionString="0.1.1.0" length="73758819" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="ZEYmhIrSY7sgjzVH3hOpgq5FEhmslbHgNOgjV2cWXauq2gZPz9a2unS0r7tCKx45NyGuEU4yDJurcps7tk0nCA==" />
+      <title>Clipbus 0.1.2.0</title>
+      <pubDate>Sun, 11 Oct 2026 03:12:53 +00:00</pubDate>
+      <sparkle:version>0.1.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.2.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/scubers/clipbus-release/releases/download/windows-v0.1.2/Clipbus-0.1.2-windows-x64-Setup.exe" sparkle:version="0.1.2.0" sparkle:shortVersionString="0.1.2.0" length="73810138" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="ctgb9uPGNPn3f26Q0OshkwScHrfYVHspwrxFfJqhpDJzSdQjnNybVPPtY6Bt3vJoLZAplMU9OB3AZuK7qLTABg==" />
     </item>
   </channel>
 </rss>
