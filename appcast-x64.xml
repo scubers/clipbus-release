@@ -6,14 +6,14 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Clipbus 0.6.1.0</title>
-      <pubDate>Mon, 19 Oct 2026 16:46:25 +00:00</pubDate>
-      <sparkle:version>0.6.1.0</sparkle:version>
-      <sparkle:shortVersionString>0.6.1.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.1/Clipbus-0.6.1-windows-x64-Setup.exe" sparkle:version="0.6.1.0" sparkle:shortVersionString="0.6.1.0" length="34354309" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="LGh8A6C8GTyLfGVJecoiIAXY+dyNTDBXuNAOfv55V+NdEghC058b9Pr6eJ8ZMI8Z9lmNsQwOy6t28v4ofUJpCw==" />
-      <sparkle:releaseNotesLink xml:lang="en" sparkle:signature="8aR2whWU1WnkDvWlQDURxha01+vl8szKBwCG3Uv2QFYZmvHYIdRNqjQAry8NQ8F5OX0FXRbmFPqC9hxE4cPVBQ==">https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.1/Clipbus-0.6.1-windows.en.md</sparkle:releaseNotesLink>
-      <sparkle:releaseNotesLink xml:lang="zh-Hans" sparkle:signature="2eRhCDKmrI8bjxAst30aN35/vLO8q0IbkTxIwkfAojg3HcPYC/hFiNGr3U+aUs83G2YjJ9hOwgIdkXNg5o86CQ==">https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.1/Clipbus-0.6.1-windows.zh-Hans.md</sparkle:releaseNotesLink>
-      <sparkle:releaseNotesLink xml:lang="ja" sparkle:signature="VCHvkyA58GfWeXh9LCS5MzJ19AUkBtMc5h/lzCBnJoS7+POrqcoOxRseBPvHUC2K4ecGPNvp0VActuPS25opAQ==">https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.1/Clipbus-0.6.1-windows.ja.md</sparkle:releaseNotesLink>
+      <title>Clipbus 0.6.2.0</title>
+      <pubDate>Wed, 21 Oct 2026 21:57:10 +00:00</pubDate>
+      <sparkle:version>0.6.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.6.2.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.2/Clipbus-0.6.2-windows-x64-Setup.exe" sparkle:version="0.6.2.0" sparkle:shortVersionString="0.6.2.0" length="34382681" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="FpjDqvkkdGcdpzOXdn+Cx0futyvUUNxijNeQV+hKPsEc0wLpp7BtfxEw57hVZKxQqpFtde42JinPrgj2Cxx5Aw==" />
+      <sparkle:releaseNotesLink xml:lang="en" sparkle:signature="eV1yRKnWJTYXzlxlrR9qWdgv0XLprKQf1Ujjm3/kV1jz9KwDCRdUBHx+jcKX9onnkBlkfhqsClQ6LILyhXD4Ag==">https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.2/Clipbus-0.6.2-windows.en.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="zh-Hans" sparkle:signature="lnhVjSDmh3Lmoyj/QAiMmi/kYXUYUBy8QcQ0LHcWWRBvC7dag5qicNeYQqsLhpPLuJ5sNSgc0XZtypmARiTEBA==">https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.2/Clipbus-0.6.2-windows.zh-Hans.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ja" sparkle:signature="Bk7KR5iLHwLlyccjkoCUstXkyFCD3lgy7LRC5tBoLx8V/2Njw6q6Hl22jEnkjWb4xRpT0gNHRsAdgx3Sdg/iCQ==">https://github.com/scubers/clipbus-release/releases/download/windows-v0.6.2/Clipbus-0.6.2-windows.ja.md</sparkle:releaseNotesLink>
     </item>
   </channel>
 </rss>
