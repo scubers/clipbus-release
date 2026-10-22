@@ -25,7 +25,7 @@ Requires **Windows 11 24H2+** (x64).
 ## Plugin SDK
 
 - **Package:** [`@clipbus/plugin-sdk`](https://www.npmjs.com/package/@clipbus/plugin-sdk) on npm
-- **Release notes:** [Plugin SDK releases](https://github.com/scubers/clipbus-release/releases?q=Plugin+SDK&expanded=true) (`sdk-v*` tags)
+- **Release notes:** [Plugin SDK releases](https://github.com/scubers/clipbus-release/releases?q=%22Clipbus+Plugin+SDK%22&expanded=true) (`sdk-v*` tags)
 - **Starter template:** [clipbus-template-plugin](https://github.com/scubers/clipbus-template-plugin)
 - **Documentation:** [clipbus.com/plugin-doc](https://clipbus.com/plugin-doc)
 
