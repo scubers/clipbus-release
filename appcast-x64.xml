@@ -6,14 +6,14 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Clipbus 3.3.0.0</title>
-      <pubDate>Wed, 11 Nov 2026 07:33:47 +00:00</pubDate>
-      <sparkle:version>3.3.0.0</sparkle:version>
-      <sparkle:shortVersionString>3.3.0.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/scubers/clipbus-release/releases/download/windows-v3.3.0/Clipbus-3.3.0-windows-x64-Setup.exe" sparkle:version="3.3.0.0" sparkle:shortVersionString="3.3.0.0" length="36062652" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="FcgLRVLMFcVFh+mHHxhQl7KMII8IN92kpUYtjN9ABDCzHfzUQLk4FKd1zccpTz8n7+TbEBfwajyvdGgg5euoDw==" />
-      <sparkle:releaseNotesLink xml:lang="en" sparkle:signature="rYNNVIYkiBDd5wj+QHgwyVPA4H2R/vDgwshHhx+j2wfXkzRsjSXLvbFqyGncF+4yjqg7ACQtfXioXfv3p8UwCQ==">https://github.com/scubers/clipbus-release/releases/download/windows-v3.3.0/Clipbus-3.3.0-windows.en.md</sparkle:releaseNotesLink>
-      <sparkle:releaseNotesLink xml:lang="zh-Hans" sparkle:signature="MwVTfzfm1jVYyNTSHeM2+FgtwHFcxi/wm91SHUNAZAB2F1gYZek5Vq6Jg3UEDI3w+zO8OhPG6LlYRKjpzosIDg==">https://github.com/scubers/clipbus-release/releases/download/windows-v3.3.0/Clipbus-3.3.0-windows.zh-Hans.md</sparkle:releaseNotesLink>
-      <sparkle:releaseNotesLink xml:lang="ja" sparkle:signature="X4TtooK6tCNpflrpn94BqnHAHwNlnv37G8AkY+5x/pdc8gOUO56FttpdDAyjCmPVqHFsGTmLXhVA+4yzSoYDDw==">https://github.com/scubers/clipbus-release/releases/download/windows-v3.3.0/Clipbus-3.3.0-windows.ja.md</sparkle:releaseNotesLink>
+      <title>Clipbus 3.4.0.0</title>
+      <pubDate>Sun, 15 Nov 2026 05:49:36 +00:00</pubDate>
+      <sparkle:version>3.4.0.0</sparkle:version>
+      <sparkle:shortVersionString>3.4.0.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/scubers/clipbus-release/releases/download/windows-v3.4.0/Clipbus-3.4.0-windows-x64-Setup.exe" sparkle:version="3.4.0.0" sparkle:shortVersionString="3.4.0.0" length="36053104" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="9kghibVbOZcS1l9ORCt1fP6YmU8OxmRvnFfmWdJuRtIH84FCyhxX82GprqUeRu7JZL8QNl4tZDv3Qw2D8KImDg==" />
+      <sparkle:releaseNotesLink xml:lang="en" sparkle:signature="ov29tNJnruoC6+Q9JhtXIT6gZwn4z1tGG2SKK4Hfibe9HnydaagYwylLKodt5XZvFG5QAhwDNGNesxaqHjQ+Cw==">https://github.com/scubers/clipbus-release/releases/download/windows-v3.4.0/Clipbus-3.4.0-windows.en.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="zh-Hans" sparkle:signature="Kclyi1SxvzbdERCzVNwgnuOuCuqlIA+H9iNAuWXimruuC+FOXrkS032pHX5iKTT6hKaVrHA+r8AHjypRPWbiDg==">https://github.com/scubers/clipbus-release/releases/download/windows-v3.4.0/Clipbus-3.4.0-windows.zh-Hans.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ja" sparkle:signature="Eg+/kjMUcu+2txYDrAYGdPakaPsy8CZjOonfngS/XMuJzpOa8p6lcqVmiPpf4VojGd7spdKPn0DPFYD/AdL9BA==">https://github.com/scubers/clipbus-release/releases/download/windows-v3.4.0/Clipbus-3.4.0-windows.ja.md</sparkle:releaseNotesLink>
     </item>
   </channel>
 </rss>
